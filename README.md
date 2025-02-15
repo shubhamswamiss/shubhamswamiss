@@ -8,7 +8,7 @@
 - 🎯 **Frontend Developer** with **2.9 years of experience** specializing in **Angular, JavaScript (ES6+), TypeScript**, and building responsive **UI/UX** solutions.
 - 🏆 **Best Frontend Developer** award recipient at **EPPS Infotech Pvt. Ltd.**
 - 🔍 Passionate about **performance optimization, scalable architectures, and seamless user experiences**.
-- 🎓 **Pursuing MCA (Master of Computer Applications)** at **Savitribai Phule Pune University (2023-2026).**
+- 🎓 **Completed BSC (Computer Science)** at **Savitribai Phule Pune University (2021).**
 - 💼 Actively **looking for new opportunities** to contribute and grow in the frontend ecosystem.
 
 ---
