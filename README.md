@@ -45,8 +45,8 @@
 ---
 
 ### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-shubhamswamiss&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-shubhamswamiss&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?shubhamswamiss&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?shubhamswamiss&layout=compact&theme=radical)
 
 ---
 
